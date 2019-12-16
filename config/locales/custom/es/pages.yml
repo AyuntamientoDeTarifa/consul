@@ -1,0 +1,6 @@
+es:
+  pages:
+     help:
+      polls:
+        title: "Votaciones"
+        description: "La sección de %{link} se activa cada vez que el Ayuntamiento propone un tema para que la gente decida sobre él."
